@@ -1,5 +1,4 @@
 import React from 'react'
-import fileDownload from 'react-file-download';
 import { Link } from 'react-scroll';
 
 function Bar() {
