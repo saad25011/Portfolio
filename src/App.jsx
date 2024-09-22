@@ -1,22 +1,21 @@
 import React from 'react'
 import Foot from './Foot'
-import Bar from './bar'
 import Header from './header'
-import { Link } from 'react-scroll';
 import Aboutme from './Aboutme'
 import Project from './Project';
 import Contact from './Contact';
+import Bars from './Bars';
 function App() {
   return (
     
     <div className='maaz'>    
       
       <Header/>
-
-      <Bar/>
+      <Bars/>         
       <Project/>
       <Aboutme/>
       <Contact/>
+
       <Foot/>
 
       

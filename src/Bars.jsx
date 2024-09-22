@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-scroll';
 
-function Bar() {
+function Bars() {
   const handleDownload = () => {
     fetch('public/Saad_the_Ai_engineer.pdf')
       .then(response => response.blob())
@@ -40,4 +40,4 @@ function Bar() {
   )
 }
 
-export default Bar
+export default Bars
