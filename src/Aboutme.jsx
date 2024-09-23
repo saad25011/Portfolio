@@ -14,21 +14,21 @@ function Aboutme() {
 
             <h1 className='skills'>Skills</h1>
             <div className="skill">
-              <h3><img src="public/python.png" alt="" /> Python</h3>
-              <h3><img src="public/genai.png" alt="" /> GenAi</h3>
-              <h3><img src="public/chatbot.png" alt="" /> Chatbot</h3>
-              <h3><img src="public/pandas.png" alt="" /> Pandas</h3>
-              <h3><img src="public/images.png" alt="" /> Numpy</h3>
-              <h3><img src="public/coding.png" alt="" /> Machine Learning</h3>
-              <h3><img src="public/deep-learning.png" alt="" /> Deep Learning</h3>
+              <h3><img src="/python.png" alt="" /> Python</h3>
+              <h3><img src="/genai.png" alt="" /> GenAi</h3>
+              <h3><img src="/chatbot.png" alt="" /> Chatbot</h3>
+              <h3><img src="/pandas.png" alt="" /> Pandas</h3>
+              <h3><img src="/images.png" alt="" /> Numpy</h3>
+              <h3><img src="/coding.png" alt="" /> Machine Learning</h3>
+              <h3><img src="/deep-learning.png" alt="" /> Deep Learning</h3>
               
-              <h3><img src="public/flask.avif" alt="" /> Flask </h3>
-              <h3><img src="public/app-development.png" alt="" /> Web development</h3>
+              <h3><img src="/flask.avif" alt="" /> Flask </h3>
+              <h3><img src="/app-development.png" alt="" /> Web development</h3>
               </div>
             </p>
         </div>
         <div className="image">
-              <img src="public/doodle items.png" alt="" />
+              <img src="/doodle items.png" alt="" />
               <div className="saad">
                 
               </div>
