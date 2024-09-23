@@ -186,7 +186,7 @@ body {
   justify-content: space-evenly;
   flex-wrap: wrap;
   margin-top: 20vh;
-  background-image: url('public/Projects Page (1).png');
+  background-image: url('/Projects Page (1).png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -389,7 +389,7 @@ body {
   position: absolute;
   top: 50px;
   left: 100px;
-  background-image: url('public/New1-1370.jpg');
+  background-image: url('/New1-1370.jpg');
   background-repeat: no-repeat;
   
   background-size: cover;
