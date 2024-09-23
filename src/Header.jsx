@@ -10,7 +10,7 @@ function header() {
     <div className='navBar'>
         <h1>Saad The Ai Engineer </h1>
         <div className="menu" onClick={toggleDiv}>
-          <img src="public/reorder.png" alt="" />
+          <img src="/reorder.png" alt="" />
         </div>
         <div className="left" style={{ display: isOpen ? 'none' : 'flex' }}>
             <h2><Link to="projectGrid" smooth={true} duration={500}>Projects</Link></h2>

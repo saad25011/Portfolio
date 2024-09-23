@@ -22,34 +22,34 @@ function Project() {
         <div className='project1'>
         <h1 className='projectName1'>RAG ChatBot</h1>
         <video width="600" controls>
-            <source src="public/0916.mp4" type="video/mp4" />
+            <source src="/0916.mp4" type="video/mp4" />
         </video>
         </div>
         <div className='project2'>
         <h1 className='projectName2'>Simple ChatBot</h1>
         <video width="600" controls>
-            <source src="public/simplechatbot.mp4" type="video/mp4" />
+            <source src="/simplechatbot.mp4" type="video/mp4" />
         </video>
         </div>
         <div className='project3'>
         <h1 className='projectName3'>Automation Bot</h1>
         <video width="600" controls>
-            <source src="public/Automation.mp4" type="video/mp4" />
+            <source src="/Automation.mp4" type="video/mp4" />
         </video>
         </div>
         <div className='project4'>
         <h1 className='projectName4'> <a href="https://playful-puffpuff-ee7bc7.netlify.app/">Pepsi Clone</a></h1>
-        <img src="public/one.png" alt="" />
+        <img src="/one.png" alt="" />
         <p>Click on Pepsi Clone to see....</p>
         </div>
         <div className='project5'>
         <h1 className='projectName5'><a href="https://cerulean-chebakia-11291a.netlify.app/">Tere Clone</a></h1>
-        <img src="public/two.png" alt="" />
+        <img src="/two.png" alt="" />
         <p>Click on Tere Clone to see.....</p>
         </div>
         <div className='project6'>
         <h1 className='projectName6'><a href="https://transcendent-medovik-fe7e88.netlify.app/">Healthcare Clone</a></h1>
-        <img src="public/three.png" alt="" />
+        <img src="/three.png" alt="" />
         <p>Click on Healthcare to see.....</p>
         </div>
     </div>
